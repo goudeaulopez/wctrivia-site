@@ -1,1 +1,1 @@
-# wctrivia-site
+# wctrivia
